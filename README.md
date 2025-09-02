@@ -132,6 +132,7 @@ SCALED IMAGE
 SHEARED IMAGE
 ```
 <img width="466" height="506" alt="image" src="https://github.com/user-attachments/assets/a560a6fa-2629-4d98-a6f7-eecb6a78a900" />
+
 ```
 REFLECTED IMAGE
 ```
