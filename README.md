@@ -117,10 +117,12 @@ plt.show()
 ORIGINAL IMAGE
 ```
 <img width="456" height="492" alt="image" src="https://github.com/user-attachments/assets/043cb563-0eaa-4a57-9172-df543afa1d07" />
+
 ```
 TRANSLATED IMAGE
 ```
 <img width="460" height="490" alt="image" src="https://github.com/user-attachments/assets/ff55bd61-9ec7-4193-9d29-7a2a3632b6c2" />
+
 ```
 SCALED IMAGE
 ```
@@ -133,11 +135,14 @@ SHEARED IMAGE
 ```
 REFLECTED IMAGE
 ```
+
 <img width="450" height="493" alt="image" src="https://github.com/user-attachments/assets/0facc535-8f06-48dc-9c1e-661cbbf31354" />
+
 ```
 ROTATED IMAGE
 ```
 <img width="467" height="494" alt="image" src="https://github.com/user-attachments/assets/08df12f4-0a0a-4cd2-85c6-20d05a8e177e" />
+
 ```
 CROPPED IMAGE
 ```
