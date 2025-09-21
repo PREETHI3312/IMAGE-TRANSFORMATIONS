@@ -116,39 +116,37 @@ plt.show()
 ```
 ORIGINAL IMAGE
 ```
-<img width="456" height="492" alt="image" src="https://github.com/user-attachments/assets/043cb563-0eaa-4a57-9172-df543afa1d07" />
+<img width="382" height="502" alt="image" src="https://github.com/user-attachments/assets/a829fbf7-9991-46f4-8390-6b66a454c669" />
 
 ```
 TRANSLATED IMAGE
 ```
-<img width="460" height="490" alt="image" src="https://github.com/user-attachments/assets/ff55bd61-9ec7-4193-9d29-7a2a3632b6c2" />
+<img width="384" height="502" alt="image" src="https://github.com/user-attachments/assets/ccce8121-959f-4d05-abf8-313fc9f92f4a" />
 
 ```
 SCALED IMAGE
 ```
-<img width="613" height="281" alt="image" src="https://github.com/user-attachments/assets/c26ba452-ecc1-408a-a829-35d41269244f" />
+<img width="625" height="353" alt="image" src="https://github.com/user-attachments/assets/24b17438-7dcf-465a-b23d-44b7694fbe5b" />
 
 ```
 SHEARED IMAGE
 ```
-<img width="466" height="506" alt="image" src="https://github.com/user-attachments/assets/a560a6fa-2629-4d98-a6f7-eecb6a78a900" />
+<img width="375" height="502" alt="image" src="https://github.com/user-attachments/assets/2bb8ad09-f25d-43b9-9c6e-3f2e78e5335f" />
 
 ```
 REFLECTED IMAGE
 ```
 
-<img width="450" height="493" alt="image" src="https://github.com/user-attachments/assets/0facc535-8f06-48dc-9c1e-661cbbf31354" />
+<img width="373" height="497" alt="image" src="https://github.com/user-attachments/assets/51d2f1a5-b672-438c-a697-b7e645c7c655" />
 
 ```
 ROTATED IMAGE
 ```
-<img width="467" height="494" alt="image" src="https://github.com/user-attachments/assets/08df12f4-0a0a-4cd2-85c6-20d05a8e177e" />
+<img width="377" height="506" alt="image" src="https://github.com/user-attachments/assets/c7fbadfd-bbd5-437b-a4d3-c7d91e267046" />
 
 ```
-CROPPED IMAGE
-```
-<img width="614" height="496" alt="image" src="https://github.com/user-attachments/assets/2b7c478b-d490-4da6-84bb-b18eadbb39a4" />
 
-## Result: 
+
+##  Result: 
 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
