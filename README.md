@@ -145,6 +145,7 @@ ROTATED IMAGE
 <img width="377" height="506" alt="image" src="https://github.com/user-attachments/assets/c7fbadfd-bbd5-437b-a4d3-c7d91e267046" />
 
 ```
+```
 
 
 ##  Result: 
